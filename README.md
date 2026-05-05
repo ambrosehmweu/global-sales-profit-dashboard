@@ -40,21 +40,3 @@ global-sales-profit-dashboard/
 3. Explore the dashboard and insights.
 
 ---
-
-✅ Next Steps
-- Add screenshots of the dashboard for better visualization.
-- Extend analysis with Python (Pandas/Matplotlib) for deeper insights.
-`
-
----
-
-🚀 Step 4: Push README to GitHub
-After saving README.md, run:
-
-`bash
-git add README.md
-git commit -m "Added README with project overview"
-git push
-`
-
----
